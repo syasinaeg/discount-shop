@@ -1,0 +1,8 @@
+Popular comands for Git:
+
+> git status - write info about your files in this directory
+> git add something - add file "something" to commit list
+> git commit - commiting files from commit list
+> git commit -p - commiting all changed and trackes files
+> git push - add your local commit to server commit
+> git log - write info about your commits
